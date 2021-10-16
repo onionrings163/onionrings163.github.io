@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## hello there.
 
-You can use the [editor on GitHub](https://github.com/onionrings163/onionrings163.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+hello. my name is onionrings because its my favorite food.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### rundown
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+i am a student in school and likes to develop. i mostly use roblox to develop, pls don't roast me.... ok?
+i've made a few games that get like 5 players at most. those players are always or most likely me and my friends.... which is fine! atleast i still have players.
 
 ```markdown
 Syntax highlighted code block
